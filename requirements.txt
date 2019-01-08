@@ -1,0 +1,7 @@
+jupyter == 1.0.0
+numpy == 1.14.6
+matplotlib == 2.2.2
+pandas == 0.23.2
+requests >= 2.20.0
+mxnet
+gluonbook == 0.8.5
